@@ -1,0 +1,22 @@
+/* Text Font Link */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+
+* {
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.img-logo-index{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    display: block;
+}
